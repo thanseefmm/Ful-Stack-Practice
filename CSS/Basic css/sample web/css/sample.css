@@ -1,0 +1,15 @@
+body{
+    background:url(../image/wellpaper.jpg)no-repeat center fixed;
+    background-size:cover;
+}
+h1{
+    color: rgb(11, 216, 243);
+    text-align: center;
+    border:2px solid rgb(101, 108, 138);
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20%;
+    font-size: 50px;
+    border-radius: 10px;
+    padding: 10px;
+}
