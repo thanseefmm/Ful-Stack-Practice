@@ -1,0 +1,55 @@
+body{
+    background:url(../image/cake.jpg) no-repeat fixed;
+    background-size: cover;
+}
+
+div{
+    background-color: rgba(3, 31, 153, 0.466);
+    color: rgb(17, 9, 133);
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 7%;
+    margin-left: 75%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px 0px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 15, 0.644);
+}
+
+select{
+    width: 80%;
+    background-color: rgb(5, 59, 109);
+    color:antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+input{
+    width: 75%;
+    background-color: rgb(5, 59, 109);
+    color:antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+}
+textarea{
+    width: 75%;
+    background-color: rgb(5, 59, 109);
+    color:antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 15px;
+    width: 30%;
+    padding: 5px;
+    background-color: rgb(4, 4, 119);
+    color: aliceblue;
+    border: 2px solid rgb(185, 186, 255);
+    cursor: pointer;
+}
+
+button:hover{
+    box-shadow: 1px 5px 2px 1px rgba(0, 0, 14, 0.671);;
+}
