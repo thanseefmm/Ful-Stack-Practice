@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+    background-color: rgb(55, 199, 151);
+    margin-left: 35%;
+    overflow: auto;
+}
+
+ul li{
+    float: left;
+    padding: 20px;  
+}
+
+ul li:hover{
+    background-color: beige;
+    
+}
+ul li a{
+     text-decoration: none;
+     color: black;
+}
+ul li a:hover{
+  color: yellow; 
+}
